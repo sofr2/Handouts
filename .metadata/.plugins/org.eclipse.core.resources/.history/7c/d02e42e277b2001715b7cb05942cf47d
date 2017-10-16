@@ -1,0 +1,18 @@
+
+public class Bmi {
+
+	public static void main(String[] args) {
+		double mass1 = 60;
+		double height1 = 164;
+		double mass2 = 60;
+		double height2 = 180;
+		double bmi1;
+		double bmi2;
+		bmi1 = mass1/Math.pow(height1,2) * 100;
+		bmi2 = mass2/Math.pow(height2, 2) * 100;
+		System.out.println("First BMI:"+ bmi1);
+		System.out.println("Second BMI:" + bmi2);
+
+	}
+
+}
