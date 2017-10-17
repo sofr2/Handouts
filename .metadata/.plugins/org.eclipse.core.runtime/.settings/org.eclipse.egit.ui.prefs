@@ -1,4 +1,6 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Adding task 2</message>\n<message>Task 2 </message>\n</messages>
+//BranchProjectTracker__/Users/Sofia/Documents/workspace/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="master">\n<project>/Handout2</project>\n</projects>
+//BranchProjectTracker__/Users/Sofia/git/testinglab1/.git_task2=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="task2">\n<project>/Maven</project>\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Test</message>\n<message>Adding task 2</message>\n<message>Task 2 </message>\n</messages>
 eclipse.preferences.version=1
 merge_mode=0
 resourcehistory_show_all_branches=true
